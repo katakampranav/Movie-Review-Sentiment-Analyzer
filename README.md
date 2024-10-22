@@ -21,8 +21,8 @@ Here are a few example entries from the dataset:
 | **Ratings** | **Reviews**                                   | **Movies**  | **Resenhas**                         |
 |-------------|-----------------------------------------------|-------------|--------------------------------------|
 | 5           | The movie was okay, it's a one-time watch.     | ExampleMovie1 | Filme foi bom, vale ver uma vez.     |
-| 7           | This movie was fantastic. I loved it!          | ExampleMovie2 | Este filme foi fantástico! Eu adorei!|
-| 10          | This movie is terrible!                        | ExampleMovie3 | Este filme é terrível!               |
+| 10           | This movie was fantastic. I loved it!          | ExampleMovie2 | Este filme foi fantástico! Eu adorei!|
+| 1          | This movie is terrible!                        | ExampleMovie3 | Este filme é terrível!               |
 
 ## Model Training
 
