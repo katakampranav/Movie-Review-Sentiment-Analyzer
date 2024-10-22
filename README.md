@@ -68,7 +68,6 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/katakampranav/Movie-Review-Sentiment-Analyzer.git
-cd Movie-Review-Sentiment-Analyzer
 ```
 
 ### Step 2: Install Dependencies
